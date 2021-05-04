@@ -11,6 +11,7 @@ Fifa 21 players index, created using [FifaIndex](https://www.fifaindex.com/).
 
 
 ## Sample Output
+```
 [{
 "name": "Lionel Messi",
 "rating": "93",
@@ -123,4 +124,4 @@ Fifa 21 players index, created using [FifaIndex](https://www.fifaindex.com/).
         "Chip Shot (CPU AI Only)"
     ]
 },
-"link": "https://www.fifaindex.com/player/158023/lionel-messi/" }]
+"link": "https://www.fifaindex.com/player/158023/lionel-messi/" }]```
